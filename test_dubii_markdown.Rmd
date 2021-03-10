@@ -1,0 +1,16 @@
+---
+title: "test_git_dubii"
+auteur: "alex"
+date: "2021-03-10" 
+output: html_document
+---
+# test pour Dubii
+```{r}
+print("test")
+summary(cars)
+```
+
+```{r}
+plot(pressure)
+```
+
