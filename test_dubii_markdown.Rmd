@@ -15,3 +15,8 @@ summary(cars)
 knitr::kable(head(iris))
 ```
 
+### ajoutez un chunk plot(cars) pour un plot
+```{r}
+plot(cars)
+```
+
