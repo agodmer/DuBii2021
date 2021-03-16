@@ -10,7 +10,8 @@ print("test")
 summary(cars)
 ```
 
+#### ajoutez un chunk knitr::kable(head(iris)) pour visualiser un table
 ```{r}
-plot(pressure)
+knitr::kable(head(iris))
 ```
 
