@@ -32,3 +32,4 @@ pwd
 ***test***
 
 
+  $\Delta = b^2 - 4ac$
