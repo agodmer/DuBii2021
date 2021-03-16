@@ -15,8 +15,16 @@ summary(cars)
 knitr::kable(head(iris))
 ```
 
-### ajoutez un chunk plot(cars) pour un plot
+#### ajoutez un chunk plot(cars) pour un plot
 ```{r}
 plot(cars)
 ```
+
+
+#### ajoutez un chunk bash pwd par exemple
+```{bash}
+pwd
+```
+
+
 
